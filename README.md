@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextJS SmartContract lottery
+
+[Live Demo deployed on IPFS using Fleek here!](https://proud-voice-8433.on.fleek.co/)
 
 ## Getting Started
 
